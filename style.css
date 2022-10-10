@@ -1,0 +1,33 @@
+:root {
+  background-color: rgb(91, 67, 118);
+}
+
+html, body {
+  color: #131a46;
+  background-color: rgb(91, 67, 118);
+}
+
+html, .title {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #131a46;
+  text-align: Center;
+  padding-top: 10px;
+}
+
+html, .button {
+  background-color: #3870c2;
+  border: #3870c2;
+  color: white;
+  padding: 16px 64px;
+  text-align: center;
+  text-decoration: none;
+  display: underline;
+  font-size: 16px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+html, .button:hover {
+  background-color: white;
+  color:  #3870c2;
+}
+
