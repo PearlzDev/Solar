@@ -1,4 +1,5 @@
-Pano b0.1
+Pano a0.1
 
 Changelog:
--Empty
+-New UI
+-Removed save feature
