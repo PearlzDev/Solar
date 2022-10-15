@@ -30,4 +30,7 @@ html, .button:hover {
   background-color: white;
   color:  #3870c2;
 }
+html, .footer {
+  margin-top: 12%;
+}
 
