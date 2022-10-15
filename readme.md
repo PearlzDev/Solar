@@ -1,5 +1,5 @@
-Pano a0.1
+Pano a0.2
 
 Changelog:
 -New UI
--Removed save feature
+-Updated the api
